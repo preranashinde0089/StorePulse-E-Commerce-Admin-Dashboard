@@ -7,7 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/StorePulse-E-Commerce-Admin-Dashboard/',
   build: {
     chunkSizeWarningLimit: 1200,
   },
